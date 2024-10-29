@@ -1,1 +1,1 @@
-# sophos-autologin-mobile
+# Sophos Automatic Login & Authentication Mobile Application
