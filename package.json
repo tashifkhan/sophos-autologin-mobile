@@ -11,13 +11,17 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@react-native-async-storage/async-storage": "^2.0.0",
     "expo": "^51.0.38",
     "expo-status-bar": "~1.12.1",
-    "nativewind": "latest",
+    "nativewind": "^4.1.21",
     "react": "18.2.0",
     "react-native": "0.74.5",
+    "react-native-draggable-flatlist": "^4.0.1",
+    "react-native-gesture-handler": "^2.20.2",
     "react-native-reanimated": "~3.10.1",
-    "react-native-safe-area-context": "4.10.5"
+    "react-native-safe-area-context": "4.10.5",
+    "react-xml-parser": "^1.1.8"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
@@ -28,7 +32,7 @@
     "eslint-config-universe": "^12.0.1",
     "prettier": "^3.2.5",
     "prettier-plugin-tailwindcss": "^0.5.11",
-    "tailwindcss": "^3.4.0",
+    "tailwindcss": "^3.4.14",
     "typescript": "~5.3.3"
   },
   "eslintConfig": {
