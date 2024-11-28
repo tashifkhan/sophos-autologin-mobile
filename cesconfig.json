@@ -1,6 +1,6 @@
 {
   "cesVersion": "2.11.25",
-  "projectName": "my-expo-app",
+  "projectName": "sophos-autologin-mobile",
   "packages": [
     {
       "name": "nativewind",
