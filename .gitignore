@@ -16,6 +16,8 @@ packages
 .gitignore
 test-App.tsx
 
+.venv
+
 # macOS
 .DS_Store
 
