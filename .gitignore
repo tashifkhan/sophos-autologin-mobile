@@ -16,10 +16,6 @@ packages
 .gitignore
 test-App.tsx
 
-
-ios
-android
-
 # macOS
 .DS_Store
 
